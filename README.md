@@ -17,7 +17,7 @@ Medical app UI Design Flutter .
       Copy Folders : (1- lib , 2- images)
       step 4:
       final step is that you Copy Felds on pubspec.yaml 
- Dependencies:
+    Dependencies:
       dependencies:
           flutter:
           sdk: flutter
@@ -25,7 +25,7 @@ Medical app UI Design Flutter .
           custom_clippers: ^2.0.0
 
   
-  Assets:
+    Assets:
       assets:
       - images/ 
 
