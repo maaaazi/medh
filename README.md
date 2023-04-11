@@ -12,17 +12,18 @@ A few resources to get you started if this is your first Flutter project:
 - [Instagram ](https://www.instagram.com/m.7vd/)
 
 # Installation: 
-step 1: git clone https://github.com/mohajuwa/medh2.git
-step 2: Create a new flutter app in your editor
-step 3: Copy Folders : (1- lib , 2- images)
-step 4: final step is that you Copy Felds on pubspec.yaml 
+  step 1: git clone https://github.com/mohajuwa/medh2.git
+  step 2: Create a new flutter app in your editor
+  step 3: Copy Folders : (1- lib , 2- images)
+  step 4: final step is that you Copy Felds on pubspec.yaml 
 # Dependencies:
       dependencies:
           flutter:
           sdk: flutter
+          cupertino_icons: ^1.0.2
+          custom_clippers: ^2.0.0
 
-  cupertino_icons: ^1.0.2
-  custom_clippers: ^2.0.0
+  
  # Assets:
       assets:
       - images/ 
