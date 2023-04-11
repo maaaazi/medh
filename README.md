@@ -1,6 +1,6 @@
 # medh
 
-A new Flutter project.
+Medical app UI Design Flutter .
 
 ## Getting Started
 
@@ -8,10 +8,23 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Text me in Public Whatsapp](https://wa.me/+967775992377)
+- [Instagram ](https://www.instagram.com/m.7vd/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Installation: 
+step 1: git clone https://github.com/mohajuwa/medh2.git
+step 2: Create a new flutter app in your editor
+step 3: Copy Folders : (1- lib , 2- images)
+step 4: final step is that you Copy Felds on pubspec.yaml 
+# Dependencies:
+      dependencies:
+          flutter:
+          sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  custom_clippers: ^2.0.0
+ # Assets:
+      assets:
+      - images/ 
+
 # medh
