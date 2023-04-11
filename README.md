@@ -4,10 +4,6 @@ Medical app UI Design Flutter .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
 - [Text me in Public Whatsapp](https://wa.me/+967775992377)
 - [Instagram ](https://www.instagram.com/m.7vd/)
 
@@ -21,7 +17,7 @@ A few resources to get you started if this is your first Flutter project:
       Copy Folders : (1- lib , 2- images)
       step 4:
       final step is that you Copy Felds on pubspec.yaml 
-# Dependencies:
+ Dependencies:
       dependencies:
           flutter:
           sdk: flutter
@@ -29,8 +25,8 @@ A few resources to get you started if this is your first Flutter project:
           custom_clippers: ^2.0.0
 
   
- # Assets:
+  Assets:
       assets:
       - images/ 
 
-# medh
+# Done
