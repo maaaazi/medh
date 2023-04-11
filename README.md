@@ -10,13 +10,14 @@ Medical app UI Design Flutter .
 # Installation: 
     Steps:
       step 1:
-      git clone https://github.com/mohajuwa/medh2.git
+              git clone https://github.com/mohajuwa/medh2.git
       step 2:
-      Create a new flutter app in your editor
+              Create a new flutter app in your editor
       step 3: 
-      Copy Folders : (1- lib , 2- images)
+              Copy Folders : (1- lib , 2- images)
       step 4:
-      final step is that you Copy Felds on pubspec.yaml 
+              final step is that you Copy Felds on pubspec.yaml 
+              
     Dependencies:
       dependencies:
           flutter:
